@@ -5,5 +5,5 @@ check out my life story on [life sweetness](https://shoalin.com)
 
 # Authors
 
-* Hazelnut (@hazelnurt) - Freelance
-* Robbs (@Robbs) - Employeed
+* Hazelnut ([@hazelnurt](https://nowhere.com)) - Freelance
+* Robbs ([@Robbs](https://nowhere.com)) - Employeed
